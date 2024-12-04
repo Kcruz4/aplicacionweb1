@@ -24,6 +24,6 @@ Este proyecto es una aplicación web simple creada con Streamlit. El propósito 
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/tu_usuario/tu_repositorio.git
+   git clone https://github.com/Kcruz4/aplicacionweb1.git
 
 
