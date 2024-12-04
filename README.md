@@ -26,4 +26,11 @@ Este proyecto es una aplicación web simple creada con Streamlit. El propósito 
    ```bash
    git clone https://github.com/Kcruz4/aplicacionweb1.git
 
+   ## Enlace a la aplicación
+
+Puedes ver la aplicación desplegada en la siguiente URL:
+
+[Mi aplicación en Render](https://aplicacionweb1.onrender.com/)
+
+
 
